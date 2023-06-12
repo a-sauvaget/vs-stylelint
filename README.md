@@ -4,7 +4,7 @@ Règles définies selon [le standard actuel](https://github.com/stylelint/stylel
 
 ## Configuration de Visual Studio Code
 
-Définition globale des règles, pour tous les projets tant qu'il n'y a pas d'installation se Stylelint pour un projet en particulier.
+Définition globale des règles, pour tous les projets tant qu'il n'y a pas d'installation de Stylelint pour un projet en particulier.
 Dans les paramètres, rajouter :
 
 ```json
